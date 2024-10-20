@@ -5,3 +5,11 @@
 【后端】基于JavaWeb技术用了SpringBoot和MyBatis(或MyBatisPlus)等框架，使用Maven进行包管理；
 【数据库】使用MySQL。
 2、主要开发环境版本：node 16.x.x、vue(2或3)、jdk1.8、mysql 8.0，Win10以上。
+
+管理员：
+账号：admin
+密码：123456
+
+普通用户：
+账号：user
+密码：123456
